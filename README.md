@@ -1,9 +1,9 @@
 ### Óla, sou Matheus Victor 👋
 
-- 🔭 Hoje curso Ciência da Computação atualmente no 4 periodo
-- 🌱 Estudo curso de html,css,javascript, node js e react  
+- 🔭 Atualmente cursando Ciência da Computação, iniciando o 4 período
+- 🌱 Estudando cursos em html,css,javascript, node js e react  
 - 📫 contato de email: matheus09voctor@gmail.com
-- 😄 Pronouns: ele/dele
+
 
 <div align="center"> 
 <a href="https://github.com/MatheusVDSN"> 
