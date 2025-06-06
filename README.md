@@ -47,11 +47,11 @@ Principais problemas relatados pelo requisitante:
 
 ### Análise de Clientes AdventureWorks
 <img align="left" width="500" src="https://github.com/MatheusVDSN/Portifolio_AdventureWorks/blob/main/Imagens/Adventure_print.JPG?raw=true">
-Projeto desenvolvido para análise e entendimento dos clientes da empresa AdventureWorks, utlizando linguagem SQL para consulta ao banco de dados.
-Principais desafios: <br>
-- Desenvolver um tabela de Dim_Calendario com o uso de power query.<br>
-- Estatística descritiva com as principais características das vendas, custo e taxa de entrega baseado nos  dados AdventureWorks.<br>
-- Filtra por principais regiões e países, encontrar quais locais geram mais vendas.
+Projeto desenvolvido para análise e entendimento dos clientes da empresa AdventureWorks, utilizando linguagem SQL para consulta ao banco de dados. Principais desafios:
+- Desenvolver uma tabela de Dim Calendário com o uso de power query.
+- Estatística descritiva com as principais características das vendas, custo e taxa de entrega baseado nos dados AdventureWorks.
+- Filtrar por principais regiões e países, encontrar quais locais geram mais vendas.
+
 <br>
 <br>
 <a href="https://github.com/MatheusVDSN/Portifolio_AdventureWorks" target=" target="_blank">Clique aqui</a> e acesse o repositório no Github.
