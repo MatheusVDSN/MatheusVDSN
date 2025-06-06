@@ -56,6 +56,6 @@ Principais desafios: <br>
 - Filtra por principais regiões e países, encontrar quais locais geram mais vendas.
 <br>
 <br>
-<a href="" target="_blank">Clique aqui</a> e acesse o repositório no Github.
+<a href="https://github.com/MatheusVDSN/Portifolio_AdventureWorks" target=" target="_blank">Clique aqui</a> e acesse o repositório no Github.
 <br>
-<a href="https://github.com/MatheusVDSN/Portifolio_AdventureWorks" target="_blank">Clique aqui</a> e acesse o a solução desenvolvida para a empresa AdventureWorks.
+<a href=""_blank">Clique aqui</a> e acesse o a solução desenvolvida para a empresa AdventureWorks.
