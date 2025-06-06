@@ -37,6 +37,7 @@ Onde pode me encontrar:
 <img align="right" width="500"  src="https://github.com/MatheusVDSN/Portifolio_Contoso/blob/main/Imagens/contoso_print.JPG?raw=true">
 Projeto de dashboard desenvolvido com Power BI para identificar os principais fatores que impactam as vendas da empresa Contoso. 
 Principais problemas relatados pelo requisitante: 
+
 - Dificuldade de exportar os dados do sistema atual e manipular as informações em planilhas, macros e tabelas dinâmicas.
 - Segmentar dados  por filiais, categorias, produtos e períodos de tempo de uma forma simples, dinâmica e fácil de compartilhar.
 - Medir a performance comparando períodos de tempo (YoY, YTD, MoM, MTD).
