@@ -1,5 +1,6 @@
 ## Olá, me chamo Matheus 👋
-# Analise de Dados | SQL Server | Power BI | Excel | Python | Pandas |
+# Analista de Dados aspirante
+
 
 
 - 🔭 I’m currently working on ...
