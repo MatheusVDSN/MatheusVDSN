@@ -6,7 +6,7 @@ Sobre mim:
 
 - 🔭 Atualmente faço faculdade e estudo dados (SQL, PowerBI, Excel , Python)
 - 🏠 Atualmente moro em BH MG
-- 🌱 Em busca de um oportunidad de estágio 
+- 🌱 Em busca de um oportunidade de estágio 
 - 🤓 Analista de dados aspirante
 
 Principais Ferramentas:
