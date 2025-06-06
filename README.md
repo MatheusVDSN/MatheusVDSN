@@ -29,3 +29,33 @@ Onde pode me encontrar:
     <img align="center" alt="" height="40" width="40" src="https://github.com/BruceFonseca/Portfolio/blob/main/social%20icons/instagram.png?raw=true">
   </a>
 </div>
+
+## 
+
+## Portfólio e Principais Projetos
+### Contoso Sales Dashboard
+<img align="right" width="500"  src="https://github.com/MatheusVDSN/Portifolio_Contoso/blob/main/Imagens/contoso_print.JPG?raw=true">
+Projeto de dashboard desenvolvido com Power BI para identificar os principais fatores que impactam as vendas da empresa Contoso. 
+Principais problemas relatados pelo requisitante: 
+- Dificuldade de exportar os dados do sistema atual e manipular as informações em planilhas, macros e tabelas dinâmicas.
+- Segmentar dados  por filiais, categorias, produtos e períodos de tempo de uma forma simples, dinâmica e fácil de compartilhar.
+- Medir a performance comparando períodos de tempo (YoY, YTD, MoM, MTD).
+<br>
+<a href="" target="_blank">Clique aqui</a> e acesse o a solução desenvolvida para o cliente.
+<br>
+<a href="https://github.com/MatheusVDSN/Portifolio_Contoso">Clique aqui</a> e acesse o repositório no Github.
+
+<br><br>
+
+### Análise de Clientes AdventureWorks
+<img align="left" width="500" src="https://github.com/MatheusVDSN/Portifolio_AdventureWorks/blob/main/Imagens/Adventure_print.JPG?raw=true">
+Projeto desenvolvido para análise e entendimento dos clientes da empresa AdventureWorks, utlizando linguagem SQL para consulta ao banco de dados.
+Principais desafios: <br>
+- Desenvolver um tabela de Dim_Calendario com o uso de power query.<br>
+- Estatística descritiva com as principais características das vendas, custo e taxa de entrega baseado nos  dados AdventureWorks.<br>
+- Filtra por principais regiões e países, encontrar quais locais geram mais vendas.
+<br>
+<br>
+<a href="" target="_blank">Clique aqui</a> e acesse o repositório no Github.
+<br>
+<a href="https://github.com/MatheusVDSN/Portifolio_AdventureWorks" target="_blank">Clique aqui</a> e acesse o a solução desenvolvida para a empresa AdventureWorks.
